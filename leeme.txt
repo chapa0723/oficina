@@ -1,0 +1,3 @@
+instalados.bat guarda un txt en el disco C:\InstallList.txt
+systeminfo.bat guarda un txt en el disco C:\systeminfo.txt
+userinfo.bat guarda un txt en el disco C:\userinfo.txt
